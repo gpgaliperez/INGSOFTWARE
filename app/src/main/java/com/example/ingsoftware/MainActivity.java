@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("Hola mundo");
         System.out.println("Modificación 2.j - A");
+        System.out.println("Modificación en Release 1!");
+
     }
 }
